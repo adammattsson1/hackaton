@@ -43,3 +43,11 @@ h1 {
 .link:hover {
     background-color: #0000ff;
 }
+.lista{
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: start;
+    margin-bottom: 25px;
+    margin-top: 12px;
+
+}
